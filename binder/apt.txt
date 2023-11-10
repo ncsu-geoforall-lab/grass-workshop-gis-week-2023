@@ -5,7 +5,6 @@ flex
 g++
 gettext
 htop
-libblas-dev
 libbz2-dev
 libcairo2-dev
 libfftw3-dev
@@ -15,7 +14,6 @@ libgeos-dev
 libglu1-mesa-dev
 libjpeg-dev
 liblapack-dev
-liblas-c-dev
 libncurses5-dev
 libnetcdf-dev
 libomp-dev
@@ -31,11 +29,10 @@ make
 netcdf-bin
 parallel
 proj-bin
-python
-python-dev
-python-numpy
-python-pil
-python-ply
+python3-dev
+python3-numpy
+python3-pil
+python3-ply
 sqlite3
 unixodbc-dev
 zlib1g-dev
