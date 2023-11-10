@@ -25,4 +25,6 @@ In Colab:
 
 In Google Colab we don't have pre-installed the software needed, so go ahead and execute the first part to install it. Also, in order to avoid repeating the installation, we merged both notebooks into one.
 
+### Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncsu-geoforall-lab/grass-workshop-gis-week-2023/HEAD)
 
